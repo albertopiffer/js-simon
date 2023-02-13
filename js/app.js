@@ -6,7 +6,7 @@ for (let i=0; i<5; i++) {
 
 alert(rand)
 
-let counter = 5
+let counter = 30
 
 const timeout = setTimeout(timerRicorsivo, 1000)
 
